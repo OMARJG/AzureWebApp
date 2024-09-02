@@ -1,2 +1,0 @@
-This is file B
-This is my second change
